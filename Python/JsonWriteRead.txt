@@ -1,0 +1,1 @@
+{"stud1": {"Name": "Ashu", "Age": 21, "Gender": "Male"}, "stud2": {"Name": "Tony", "Age": 22, "Gender": "Male"}, "stud3": {"Name": "Jack", "Age": 22, "Gender": "Male"}}

@@ -1,0 +1,10 @@
+To convert .py file to exe we use auto-py-to-exe module.
+We can install it using pip.
+
+How to use:
+1. Install the module
+2. Run the command 'auto-py-to-exe' in cmd
+3. A GUI will open
+4. Select the file which we have to convert
+5. Select the proper settings
+6. Done.... 
